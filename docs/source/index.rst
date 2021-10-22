@@ -1,17 +1,16 @@
-Welcome to Lumache's documentation!
+Selamat Datang di Dokumentasi Bharata!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**Bharata** adalah aplikasi online untuk menangkap dan memetakan dimensi percakapan yang ada 
+di media sosial dan media online lainnya.
+
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
 .. note::
 
-   This project is under active development.
+   Proyek ini masih aktif dikembangkan dan bisa diakses di https://bharata.or.id.
 
 Contents
 --------
